@@ -1,4 +1,5 @@
 This ChatBot Was Created By Orhan Kaya
+<python>
 echo "# First-project" >> README.md
 git init
 git add README.md
